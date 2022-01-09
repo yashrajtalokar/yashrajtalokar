@@ -2,7 +2,7 @@
 - 👀 I’m interested in contributing to open source.
 - 🌱 I’m currently learning computer engineering @viitpune.
 - 💞️ I’m looking to collaborate on some cloud project and guide me through it as am a fresher.
-- 📫 yashtalokar123@gmail.com plz contact if you want to collabrate.
+- 📫 yashtalokar123@gmail.com contact here if you want to collabrate.
 Cheers!
 
 <!---
