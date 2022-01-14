@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashrajtalokar
 - 👀 I’m interested in contributing to open source.
 - 🌱 I’m currently learning computer engineering @viitpune.
-- 💞️ I’m looking to collaborate on some cloud project and guide me through it as am a fresher.
+- 💞️ I’m looking to collaborate on some prpject.
 - 📫 yashtalokar123@gmail.com contact here if you want to collabrate.
 Cheers!
 
