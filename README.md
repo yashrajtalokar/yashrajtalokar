@@ -3,15 +3,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate [Your Profession/Role] based in [Your Location]. My journey in tech has been exciting, and I'm always eager to learn and explore new technologies.
+I'm a passionate Software Engineer based in Pune. My journey in tech has been exciting, and I'm always eager to learn and explore new technologies.
 
-- 🔭 I'm currently working on [Current Project/Job]
-- 🌱 I'm currently learning [Technology/Skill]
-- 👯 I'm looking to collaborate on [Type of Projects]
-- 💬 Ask me about [Your Expertise Areas]
-- 📫 How to reach me: [Your Email/Social Media]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact About You]
+- 🔭 I'm currently working on My Portfolio
+- 🌱 I'm currently learning DevOps
+- 💬 Ask me about Javascript
+- 😄 Pronouns: He/Him
 
 ## 🛠 Skills
 
@@ -27,15 +24,15 @@ I'm a passionate [Your Profession/Role] based in [Your Location]. My journey in 
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yashrajtalokar&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yashrajtalokar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajtalokar&layout=compact&theme=radical)
 
 ## 🎯 Recent GitHub Activity
 
@@ -47,32 +44,14 @@ I'm a passionate [Your Profession/Role] based in [Your Location]. My journey in 
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashrajtalokar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yashrajtalokar.com/)
 
-## 💼 Portfolio
-
-Check out some of my featured projects:
-
-1. [Project 1](https://github.com/yourusername/project1) - Short description
-2. [Project 2](https://github.com/yourusername/project2) - Short description
-3. [Project 3](https://github.com/yourusername/project3) - Short description
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post 1](https://yourblog.com/post1)
-- [Blog Post 2](https://yourblog.com/post2)
-- [Blog Post 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=yashrajtalokar&color=blueviolet" alt="Profile views">
 </p>
 
 <p align="center">
-  Made with ❤️ by [Your Name]
+  Made with ❤️ by Yashraj
 </p>
