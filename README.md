@@ -1,6 +1,5 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Yashraj Talokar
 
-![Profile Banner](https://via.placeholder.com/1500x500)
 
 ## 🚀 About Me
 
