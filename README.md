@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Yashraj Talokar
+# 👋 Hello, I'm Yashraj
 
 
 ## 🚀 About Me
