@@ -34,14 +34,6 @@ I'm a passionate Software Engineer based in Pune. My journey in tech has been ex
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajtalokar&layout=compact&theme=radical)
 
-## 🎯 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/yourusername/repo/pull/123) in [yourusername/repo]
-2. 💪 Opened PR [#456](https://github.com/yourusername/repo/pull/456) in [yourusername/repo]
-3. ❗️ Closed issue [#789](https://github.com/yourusername/repo/issues/789) in [yourusername/repo]
-<!--END_SECTION:activity-->
-
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashrajtalokar/)
